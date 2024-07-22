@@ -9,3 +9,4 @@ pandas==2.2.2
 tensorflow==2.15.0
 python-xlib
 pytest==8.2.2
+tk
