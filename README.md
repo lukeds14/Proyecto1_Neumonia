@@ -1,6 +1,6 @@
-## Proyecto herramienta para la detección rápida de neumonía.
+# Proyecto herramienta para la detección rápida de neumonía.
 
-# Presentado por: Luis Eduardo Solarte Riascos.
+## Presentado por: Luis Eduardo Solarte Riascos.
 
 Aplicación de técnicas de Deep Learning para el análisis de radiografías de tórax en formato DICOM, con el objetivo de clasificarlas en tres categorías distintas:
 
