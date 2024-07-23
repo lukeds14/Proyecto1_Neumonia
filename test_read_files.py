@@ -2,7 +2,6 @@ import pytest
 import numpy as np
 from PIL import Image
 import cv2
-from leerImagen import read_dicom_file, read_jpg_file
 
 # Import the functions to test
 from leerImagen import read_dicom_file, read_jpg_file
