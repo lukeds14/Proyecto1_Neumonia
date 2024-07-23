@@ -8,7 +8,7 @@ Aplicación de técnicas de Deep Learning para el análisis de radiografías de 
 2. Neumonía Viral
 3. Ausencia de Neumonía
 
-Se utiliza una técnica de interpretación conocida como Grad-CAM para destacar, mediante un mapa de calor, las áreas significativas de la imagen de entrada.
+
 ---
 
 ## Uso de la herramienta:
