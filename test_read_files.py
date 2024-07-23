@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 import cv2
 
-# Importar la funcion leerImagen
+# Importar la funcion que lee las Imagenes
 from leerImagen import read_dicom_file, read_jpg_file
 
 
