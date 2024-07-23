@@ -1,2 +1,2 @@
 # Proyecto1_Neumonia
-# Presentado por: Luis Eduardo Solarte Riascos.
+Presentado por: Luis Eduardo Solarte Riascos.
