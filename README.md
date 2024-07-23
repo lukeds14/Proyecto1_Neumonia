@@ -110,6 +110,9 @@ desarrollo de software, ya que ayudan a garantizar que las funciones se comporte
 La función test_preprocess es un ejemplo de una prueba automatizada que verifica el correcto funcionamiento de la función preprocess. Asegura que la 
 imagen se cargue correctamente, que el preprocesamiento produzca una imagen con la forma y el rango de valores esperados.
 
+## requierements.txt
+
+Archivo en formato txt que contiene las aplicaciones necesarias que se deben instalar para que la aplicación funcione correctamente.
 
 --
 
