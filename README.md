@@ -99,6 +99,12 @@ Incluye el preprocesamiento de la imagen, la carga del modelo, la obtención de 
 generación de un mapa de calor Grad-CAM para visualizar las áreas relevantes de la imagen. Este enfoque es útil en aplicaciones de diagnóstico médico
 y en cualquier contexto donde se requiera interpretar las decisiones de un modelo de aprendizaje profundo.
 
+## requierements.txt
+
+Archivo en formato txt que contiene las aplicaciones necesarias que se deben instalar para que la aplicación funcione correctamente.
+
+# Evaluación de dos funciones con la herramienta PYTEST.
+
 ## test_read_files.py
 
 Este código proporciona un conjunto de pruebas automatizadas para las funciones read_dicom_file y read_jpg_file. Verifica que estas funciones devuelvan 
@@ -110,9 +116,7 @@ desarrollo de software, ya que ayudan a garantizar que las funciones se comporte
 La función test_preprocess es un ejemplo de una prueba automatizada que verifica el correcto funcionamiento de la función preprocess. Asegura que la 
 imagen se cargue correctamente, que el preprocesamiento produzca una imagen con la forma y el rango de valores esperados.
 
-## requierements.txt
 
-Archivo en formato txt que contiene las aplicaciones necesarias que se deben instalar para que la aplicación funcione correctamente.
 
 --
 
